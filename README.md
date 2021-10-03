@@ -1,1 +1,1 @@
-# Shadowrocket-
+Shadowrocket自动分流规则
